@@ -1,3 +1,0 @@
-faulty Caps 
-
-C8,C6,C2
